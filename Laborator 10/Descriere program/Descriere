@@ -1,0 +1,3 @@
+ Pentru acest laborator am realizat 2 programe server si client care comunica in contextul unui joc de Gomoku.
+ Ce am reusit sa fac la nivel de joc este un board reprezentat de o matrice initial umpluta de 0, in care se adauga 1 in cazul jucatorului 1 si 2 in cazul jucatorului 2 si se joaca pana unul din cei 2 jucatori iese sau reuseste sa aiba numarul corespunzator pe 5 pozitii alaturate. Am resuit sa implementez comenzile submit move (la care am adaugat sa se specifice linia si coloana corespunzatoare pozitiei dorite), exit si stop (care se realizeaza dupa ce introduc inca o comanda, nu am reusit sa rezolv acest lucru).
+ Am atasat si screenshoturi de la un exemplu testat de mine deoarece e destul de rigid si de lung modul in care se introduc datele.
